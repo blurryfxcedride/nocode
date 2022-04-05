@@ -2,7 +2,10 @@
 Welcome to no code, the easy way to code, without coding.
 
 The No Code project is here to help beginner developers learn and use real code. 
-We make it simple and easy by providing easy copy and paste lines of code for you to use in your apps, games, and websites.
+We make it simple and easy by providing easy copy and paste lines of code for you to use in your apps, games, and website
+
+
+# Links
 
 No Code Project Board --> https://github.com/users/blurryfxcedride/projects/2
 
