@@ -9,7 +9,11 @@ We make it simple and easy by providing easy copy and paste lines of code for yo
 
 No Code Project Board --> https://github.com/users/blurryfxcedride/projects/2
 
-Official Website --> https://sites.google.com/view/nocodeproject
+Official Website --> https://nocodeproject.carrd.co/
+
+Old Website --> https://sites.google.com/view/nocodeproject
+
+Email Us Here --> nocodeproject@gmail.com
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
