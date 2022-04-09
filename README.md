@@ -1,4 +1,4 @@
-# nocode
+# No Code
 Welcome to no code, the easy way to code, without coding.
 
 The No Code project is here to help beginner developers learn and use real code. 
