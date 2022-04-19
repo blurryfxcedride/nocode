@@ -13,7 +13,7 @@ Official Website --> https://nocodeproject.carrd.co/
 
 Old Website --> https://sites.google.com/view/nocodeproject
 
-Email Us Here --> nocodeproject@gmail.com
+Email Us Here --> blurryfxcedridegithub@gmail.com
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
